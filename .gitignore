@@ -1,0 +1,6 @@
+# Executable Files
+*.exe
+
+# Build path
+bin
+obj
