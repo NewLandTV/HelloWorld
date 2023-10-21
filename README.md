@@ -1,4 +1,4 @@
-# **Hello, World!(언녕, 세상!)**
+# **Hello, World!(안녕, 세상!)**
 
 Let's print "Hello, World!" In 6 programming languages.
 
