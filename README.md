@@ -10,7 +10,7 @@ Let's print "Hello, World!" In 6 programming languages.
 * C++
 * Python
 * C#
-* * Java
+* Java
 * JavaScript
 
 # **Links(링크)**
