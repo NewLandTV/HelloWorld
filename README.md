@@ -4,6 +4,8 @@ Let's print "Hello, World!" In 6 programming languages.
 
 6가지 프로그래밍 언어로 "Hello, World!"를 출력해봅시다.
 
+[![Development Note p.35](https://img.youtube.com/vi/mxj_c6hAZwQ/0.jpg)](https://www.youtube.com/watch?v=mxj_c6hAZwQ)
+
 # **Programming Languages(프로그래밍 언어)**
 
 * C
